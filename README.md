@@ -14,7 +14,7 @@ inspired by [See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT/)
   - [2019年攻读硕士学位研究生招生简章及专业目录](http://gs.njust.edu.cn/zsw/bc/49/c4688a179273/page.htm)
   - （081203）★▲计算机应用技术
   
-  ![计算机应用技术 初试科目](https://github.com/AlexZ33/CS-notes/blob/master/static/img/2019-05-15-14-58-46.png)
+  [计算机应用技术 初试科目](https://github.com/AlexZ33/CS-notes/blob/master/static/img/2019-05-15-14-58-46.png)
 
 - 
 
