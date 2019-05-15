@@ -16,6 +16,11 @@ inspired by [See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT/)
   
   ![计算机应用技术 初试科目](https://raw.githubusercontent.com/AlexZ33/CS-notes/master/statics/img/2019-05-15-14-58-46.png)
 
+  - （085211）计算机技术（专业学位）
+  [（085211）计算机技术（专业学位） 初试科目](https://raw.githubusercontent.com/AlexZ33/CS-notes/master/statics/img/2019-05-15-16-08-04.png)
+
+  - （085212）软件工程（专业学位）
+  [（085212）软件工程（专业学位） 初试科目](https://raw.githubusercontent.com/AlexZ33/CS-notes/master/statics/img/2019-05-15-16-13-08.png)
 - 
 
 reference: 
