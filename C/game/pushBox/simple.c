@@ -1,9 +1,13 @@
 /*
- * @Author: your name
- * @Date: 2020-11-10 14:51:04
- * @LastEditTime: 2020-11-10 16:03:04
+ * @Author: AlexZ33
+ * @Date: 2020-11-10 
+ * @LastEditTime: 2020-11-10 
  * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
+ * @Description:  https://github.com/dagger9527/pushBox/blob/master/game.cpp
+ * 知识点讲解：http://c.biancheng.net/view/660.html
+ *  printf (): https://www.runoob.com/cprogramming/c-function-printf.html
+ *  GCC编译C语言程序完整演示:  http://c.biancheng.net/view/660.html
+ *  linux下C实现对键盘事件的监听（按下键盘的时候程序立刻读取）:  https://blog.csdn.net/u013467442/article/details/51173441
  * @FilePath: /CS-notes/C/game/pushGame/simple.cpp
  */
 
@@ -72,8 +76,12 @@ void DrawMap() {
         	case 1:
         		printf("☆");
         		break;
-        	case 2:
-        		printf("■");
+	4: 箱子     ▓
+	8: 玩家     ♀
+	16: 箱子到达目的地  ★
+*/#include <linux/input.h>
+	{0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0},
+	{0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0},
         		break;
         	case 4:
         		printf("▓");
@@ -84,6 +92,12 @@ void DrawMap() {
         		column = j;
         		break;
         	case 16:
+	4: 箱子     ▓
+	8: 玩家     ♀
+	16: 箱子到达目的地  ★
+*/#include <linux/input.h>
+	{0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0},
+	{0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0},
         		printf("★");
         		break;
         	}
@@ -162,7 +176,12 @@ while(1)
     UpdateGame();    //数据更新
 
 }
-*/ 
+	4: 箱子     ▓
+	8: 玩家     ♀
+	16: 箱子到达目的地  ★
+*/#include <linux/input.h>
+	{0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0},
+	{0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0},
 int main(void)
 {
 	DrawMap();
