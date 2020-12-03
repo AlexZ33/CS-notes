@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-03 16:33:56
- * @LastEditTime: 2020-12-03 17:13:53
+ * @LastEditTime: 2020-12-03 17:21:23
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /C/intro/# 通过ｃ语言了解GCC编译器如何工作的.md
@@ -45,7 +45,7 @@ hello.c 的表示方法说明了一个基本思想∶系统中所有的信息—
 
 ![](../intro/img/gcc.png)
 
-##ＧＣＣ编译器编译过程
+## ＧＣＣ编译器编译过程
 
 在系统上运行 hello.c 程序，每条 C 语句都必须被其他程序转化为一系列的`低级机器语言指令`。然后这些指令按照一种称为可执行目标程序的格式打好包，并以二进制磁盘文件的形式存放起来。目标程序也称为可执行目标文件。
 
