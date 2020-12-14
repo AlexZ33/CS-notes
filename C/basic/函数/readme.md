@@ -1,11 +1,4 @@
-<!--
- * @Author: your name
- * @Date: 2020-12-07 11:30:27
- * @LastEditTime: 2020-12-07 11:36:48
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /C/basic/函数/readme.md
--->
+
 
 # 函数
 ## 函数特点
