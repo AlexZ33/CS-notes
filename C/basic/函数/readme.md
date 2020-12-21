@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-12-07 11:30:27
+ * @LastEditTime: 2020-12-21 16:16:56
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /CS-notes/C/basic/函数/readme.md
+-->
 
 
 # 函数
@@ -15,3 +23,6 @@
 ### 递归基本原理
 ### 尾递归
 ###  递归和倒序计算
+### 其他问题
+#### 函数重载
+C语言是不支持函数重载的，

@@ -1,14 +1,16 @@
 <!--
  * @Author: your name
- * @Date: 2020-12-07 
- * @LastEditTime: 2020-12-07 15:03:15
+ * @Date: 2020-12-07 11:38:35
+ * @LastEditTime: 2020-12-21 16:14:49
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /C/basic/数组与指针/readme.md
+ * @FilePath: /CS-notes/C/basic/数组与指针/readme.md
 -->
-# 数组
-
-# 指针
+# printf格式化输出
+printf函数(还有它的同类fprintf和sprintf)提供了一种打印信息的方式，这种方式对格式化细节有相当大的控制能力
+# 数组 & 指针
+在C语言中我们能够用数组表示法引用指针
+我们也能用指针表示法引用数组
 
 ## &运算符
 一元＆运算符给出变量的存储地址.
