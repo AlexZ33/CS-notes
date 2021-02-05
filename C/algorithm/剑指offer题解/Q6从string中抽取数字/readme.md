@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-05 16:57:05
- * @LastEditTime: 2021-02-05 17:48:47
+ * @LastEditTime: 2021-02-05 17:56:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /C/algorithm/剑指offer题解/Q6从string中抽取数字/readme.md
@@ -57,6 +57,7 @@ print(temp) # ['train acc', ' 92.1', ' dev acc', ' 91.1', ' test acc', ' 90.2']
 print(arr) # [' 92.1', ' 91.1', ' 90.2']
 
 ```
+![](../Q6从string中抽取数字/img/Q6_2.png)
 
 ### 代码详解
  > 数组切片[1::2]怎么理解?
