@@ -2,14 +2,14 @@
 <!--
  * @Author: your name
  * @Date: 2021-10-09 14:44:20
- * @LastEditTime: 2021-10-09 14:51:54
+ * @LastEditTime: 2021-10-09 15:09:39
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /algorithm/决战offer题解/剑指 Offer II 041. 滑动窗口的平均值/剑指 Offer II 041. 滑动窗口的平均值.md
 -->
 # 题目
 
-
+![](../剑指%20Offer%20II%20041.%20滑动窗口的平均值/moving-average-from-data-stream.png)
 
 
 
