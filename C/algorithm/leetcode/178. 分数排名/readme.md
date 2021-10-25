@@ -1,8 +1,12 @@
-#! https://zhuanlan.zhihu.com/p/420730399
+#! https://zhuanlan.zhihu.com
+
+
+
+/p/420730399
 <!--
  * @Author: your name
  * @Date: 2021-10-12 19:57:16
- * @LastEditTime: 2021-10-12 20:05:56
+ * @LastEditTime: 2021-10-22 11:18:27
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /algorithm/leetcode/178. 分数排名/readme.md
