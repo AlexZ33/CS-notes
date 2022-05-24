@@ -2,7 +2,7 @@
  * @Author: zhaokang zhaokang1@xiaomi.com
  * @Date: 2022-05-20 15:14:46
  * @LastEditors: zhaokang zhaokang1@xiaomi.com
- * @LastEditTime: 2022-05-24 15:40:20
+ * @LastEditTime: 2022-05-24 17:48:18
  * @FilePath: /CS-notes/algorithm/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -35,11 +35,17 @@
    -  适用于存储只出现一次的元素
 -  二叉树
    -  以层级的形式存储数据
+   -  平衡二叉树是一棵平衡的二叉树，能让二叉树的操作维持在O（log2N）
+   -  Treap通过随机数来优化二叉查找树（Binary Search Tree）防止其退化
 -  堆
+   -  堆可以实现优先队列
+   -  左倾堆是一种可并堆，具有神奇的“左倾”性质。
 -  跳表
 -  图
    -  网络建模的理想选择
 -  Tire树
+-  Splay树
+   -  Splay树通过其特有的Splay操作来维持平衡
 
 # 1. 线性表
 线性表（Linear List）。顾名思义，线性表就是数据排成像一条线一样的结构。每个线性表上的数据最多只有前和后两个方向。其实除了数组，链表、队列、栈等也是线性表结构。
@@ -55,10 +61,25 @@
 - 搜索
 - 哈希算法
 - 贪心算法
+  - 活动选择问题([Activity Selection Problem](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/?ref=lbp))
+  - 
 - BF
 - 分治算法
 - 回溯算法
+  - [骑士的巡回赛问题The Knight’s tour problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/?ref=lbp)
+  - [迷宫里的老鼠Rat in a Maze ](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/?ref=lbp)
+  - [N皇后问题N Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/?ref=lbp)
 - 动态规划
 - 字符串匹配算法
+  - [Manacher 算法 – 线性时间最长回文子串](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/?ref=lbp)
+- 模式搜索(Pattern Searching)
+- 
 
 
+
+# 参考材料
+[Activity Selection Problem | Greedy Algo-1](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/?ref=lbp)
+
+[数据结构与算法之美](https://time.geekbang.org/column/intro/100017301?tab=catalog)
+
+[Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms)
