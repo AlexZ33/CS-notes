@@ -2,7 +2,7 @@
  * @Author: zhaokang zhaokang1@xiaomi.com
  * @Date: 2022-05-20 15:14:46
  * @LastEditors: zhaokang zhaokang1@xiaomi.com
- * @LastEditTime: 2022-05-24 17:48:18
+ * @LastEditTime: 2022-07-12 13:13:24
  * @FilePath: /CS-notes/algorithm/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -64,16 +64,33 @@
   - 活动选择问题([Activity Selection Problem](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/?ref=lbp))
   - 
 - BF
-- 分治算法
+- 分治算法(Divide and Conquer Algorithm)
+  - pow(x,n)问题
+  - 
 - 回溯算法
   - [骑士的巡回赛问题The Knight’s tour problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/?ref=lbp)
   - [迷宫里的老鼠Rat in a Maze ](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/?ref=lbp)
   - [N皇后问题N Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/?ref=lbp)
+  - [子集总和Subset Sum]()
+  - [m 着色问题m Coloring Problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/?ref=lbp)
+  - [Hamiltonian Cycle哈密​​顿循环](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/?ref=lbp)
+  - [Sudoku数独](https://www.geeksforgeeks.org/sudoku-backtracking-7/?ref=lbp)
+  - [拔河Tug of War](https://www.geeksforgeeks.org/tug-of-war/?ref=lbp)
+  - [解决密码学难题Solving Cryptarithmetic Puzzles](https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles-backtracking-8/?ref=lbp)
 - 动态规划
+  - [最长递增子序列Longest Increasing Subsequence ](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/?ref=lbp)
+  - [最长公共子序列Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/?ref=lbp) 
+  - [编辑距离Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/?ref=lbp)
+  - [最小成本路径Min Cost Path](https://www.geeksforgeeks.org/min-cost-path-dp-6/?ref=lbp)
+  - [硬币变化Coin Change ](https://www.geeksforgeeks.org/coin-change-dp-7/?ref=lbp)
+  - [矩阵链乘法Matrix Chain Multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/?ref=lbp)
+  - [二项式系数Binomial Coefficient](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/?ref=lbp)
+  -  [分包问题Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+  -  []()
 - 字符串匹配算法
   - [Manacher 算法 – 线性时间最长回文子串](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/?ref=lbp)
 - 模式搜索(Pattern Searching)
-- 
+- [分支定界算法(Branch and Bound Algorithm)](https://www.geeksforgeeks.org/branch-and-bound-algorithm/?ref=shm)
 
 
 
@@ -83,3 +100,11 @@
 [数据结构与算法之美](https://time.geekbang.org/column/intro/100017301?tab=catalog)
 
 [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms)
+
+[Iterative Tower of Hanoi](https://www.geeksforgeeks.org/iterative-tower-of-hanoi/)
+
+《算法设计与分析--北京大学》
+
+
+
+
